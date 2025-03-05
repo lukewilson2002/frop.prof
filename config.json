@@ -1,0 +1,14 @@
+{
+    "page title":   "Frop.prof",
+    "links": [
+        {"label":"Home", "link":"https://frop.prof"},
+        {"label":"luke", "link": "https://luke.frop.prof"},
+        {"label":"8bit", "link": "https://8bit.frop.prof"},
+        {"label":"",     "link":"SPACER"},
+        {"label":"nerc", "link": "https://github.com/8bitprodigy/nerc"},
+    ],
+    "site title":   "Frop.prof",
+    "subtitle":     "It's why we're always smiling!",
+    "footer left":  "The world ends tomorrow and you<b><i>&nbsp;may&nbsp;</i></b>die!",
+    "footer right": "Fuck 'em if they can't take a joke!"
+}
